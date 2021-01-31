@@ -3,6 +3,7 @@
 Este es mi primer proyecto como programador y el resultado del Bootcamp Programación desde Cero realizado con los amigos de [GeeksHubsAcademy](https://geekshubsacademy.com/).
 
 He utilizado los conocimientos adquiridos en Python y en manejo de base de datos. Para la interface gráfica he utilizado la librería de python Tkinter.
+
 ![Python](img/python.png) ![mysql](img/mysql.png)
 
 Se trata de una agenda de contactos personal conectada a una base de datos remota que permite almacenar todos los registros.
