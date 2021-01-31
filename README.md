@@ -11,14 +11,14 @@ El funcionamiento es el siguiente:
 * Ventana de inicio.
 * Ventana de registro de usuario.
 * Ventana para loguearse.
-![Captura](img/captura2.png)
+![Captura](img/Captura2.png)
 * Ventana con el menú de opciones de la agenda:
     * Agregar contacto.
     * Editar contacto.
     * Buscar contacto.
     * Eliminar contacto.
 
-![Captura1](img/captura1.png)
+![Captura1](img/Captura1.png)
 
 Para el almacenamiento de los datos del login de usuarios he utilizado el algoritmo de encriptado Sha256.
 Para el servicio de bases de datos en remoto he utilizado los servicios de [Clever Cloud](https://www.clever-cloud.com/en/).
